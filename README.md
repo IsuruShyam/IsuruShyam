@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Dushmantha (Nirvana-)</h1>
 <h3 align="center">A passionate Developer who is interested in UI/UX engineering.</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Love+to+code%2FGeek%2FWeeb%2FGamer)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isurushyam" alt="isurushyam" /></a> </p>
 
