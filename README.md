@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isuru Dushmantha</h1>
-<h3 align="center">A passionate Developer who is interested in everything related to tech XD</h3>
+<h1 align="center">Hi 👋, I'm Isuru Dushmantha (Nirvana-)</h1>
+<h3 align="center">A passionate Developer who is interested in UI/UX engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurushyam&label=Profile%20views&color=0e75b6&style=flat" alt="isurushyam" /> </p>
 
@@ -20,7 +20,9 @@
 <a href="https://twitter.com/isurushyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isurushyam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isuru dushmantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru dushmantha" height="30" width="40" /></a>
 <a href="https://fb.com/izuru shyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="izuru shyam" height="30" width="40" /></a>
+<a href="https://instagram.com/shyam_dush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyam_dush" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nirvana dota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nirvana dota" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@luffydushd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@luffydushd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isurushyam&show_icons=true&locale=en&layout=compact" alt="isurushyam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isurushyam&show_icons=true&locale=en" alt="isurushyam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isurushyam&" alt="isurushyam" /></p>
