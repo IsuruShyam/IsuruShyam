@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isuru Dushmantha (Nirvana-)</h1>
-<h3 align="center">A passionate Developer who is interested in UI/UX engineering.</h3>
+<h1 align="center">Hi 👋, I'm Shyam Dushmantha (Nirvana-)</h1>
+<h3 align="center">A passionate UI/UX Designer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isurushyam" alt="isurushyam" /></a> </p>
 
